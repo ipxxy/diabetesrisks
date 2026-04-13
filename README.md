@@ -2,7 +2,9 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="format-detection" content="telephone=no">
   <title>Тест: Насколько ты в риске диабета?</title>
   <style>
     body {
@@ -103,34 +105,26 @@
       body {
         padding: 8px;
       }
-      
       .container {
         border-radius: 12px;
-        margin: 0 auto;
       }
-
       .quiz {
         padding: 20px 18px;
       }
-
       header {
         padding: 18px 15px;
       }
-
       h1 {
         font-size: 1.35rem;
       }
-
       p {
         font-size: 16px;
       }
-
       label {
         padding: 13px;
         font-size: 15.5px;
         margin: 8px 0;
       }
-
       button {
         padding: 14px 20px;
         font-size: 15.5px;
